@@ -1,0 +1,21 @@
+{
+  "packageDirectories": [
+    {
+      "path": "modules/pet-management",
+      "default": true
+    },
+    {
+      "path": "modules/health-management"
+    },
+    {
+      "path": "modules/adoption-management"
+    },
+    {
+      "path": "modules/pet-adoption-app"
+    }
+  ],
+  "name": "pet-adoption",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "62.0"
+}
